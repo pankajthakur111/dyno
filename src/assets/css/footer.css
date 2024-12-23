@@ -1,0 +1,17 @@
+
+section.bg-danger.text-white.text-center.py-4.footer-top {
+  background-color: rgb(198 7 7) !important;
+  padding-top: 45px !important;
+}
+.footer-bottom h5 {
+  font-weight: 500 !important;
+  font-size: 20px;
+  color: #c60707 !important;
+}
+footer-bottom ul li a {
+  font-size: 17px;
+  line-height: 30px;
+}
+.footer-bottom ul li {
+  line-height: 30px;
+}
